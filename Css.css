@@ -1,0 +1,90 @@
+h1{
+    color: rgb(28, 28, 32);
+    font-family:Arial, Helvetica, sans-serif;
+    background-color:rgb(209, 206, 202);
+    margin:10px;
+    font-size:3vmax;
+    padding: 10px;
+    border-style:groove;
+    border-color:black ;
+    
+}
+
+h4{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:x-large;
+    color:black;
+    font-family: fantasy;
+    
+
+}
+
+img{
+    border-color: rgba(110, 110, 40, 0.768);
+    border-style: solid ;
+    
+}
+
+#mainimg{
+    padding-top: 5%;
+    bottom: 10%;
+    float:left ;
+}
+
+
+#sound{
+    padding-left: 32%;
+    font-size:xx-large;
+    font-display:swap;
+    color: antiquewhite;
+}
+
+#tr1{
+    background-color: #d9cbe77d;
+}
+#tr2{
+    background-color: rgba(182, 182, 149, 0.234);
+}
+#tr3{
+    background-color: rgba(137, 180, 163, 0.389);
+}
+#tr4{
+    background-color: rgba(108, 146, 143, 0.429);
+}
+#tr5{
+    background-color: rgba(179, 134, 134, 0.474);
+}
+#tr6{
+    background-color: rgba(102, 156, 152, 0.307);
+}
+#tr7{
+    background-color: rgba(184, 141, 211, 0.307);
+}
+
+.moviename{
+ font-style: italic;
+}
+
+#div1{
+    background-image: url(./images/pexels-yaroslav-shuraev-1834404.jpg);
+    background-size: cover;
+}
+
+
+#div3{
+background-image: url(./images/pexels-jahoo-clouseau-382177.jpg);
+background-size: cover;
+}
+
+
+.h2{
+    align-items: center;
+    font-size: xx-large;
+    font-family:Arial, Helvetica, sans-serif;
+    color:black
+}
+
+#footer{
+    text-align: center;
+    font-weight: bold;
+}
